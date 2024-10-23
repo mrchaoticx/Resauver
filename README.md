@@ -1,7 +1,7 @@
 # Resauver
 A better debug console library for JavaScript.
 
-Say we have 3 variables i, x, and h. We need to log these vairables for testing. 
+Say we have 3 variables I, X, and H. We need to log these vairables for testing. 
 ```js
 const i = 1;
 const x = 2;
