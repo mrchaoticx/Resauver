@@ -11,7 +11,7 @@ We need to log these vairables for testing. Some would do three console log stat
 
 ```js
 //What we do.
-js.console(i, x, h);
+js(i, x, h);
 
 //What you do.
 console.log(i)
