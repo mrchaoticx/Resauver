@@ -21,3 +21,11 @@ console.log(h)
 ```
 
 Using our method makes code less messy and debugging easy. 
+
+
+## Install
+No Install required! Just use out source.
+
+```
+<script src="https://mrchaoticx.github.io/Resauver/src/Resauver.js"></script>
+```
