@@ -20,4 +20,4 @@ console.log(h)
 
 ```
 
-Using our method makes code less messy and debugging easirer.
+Using our method makes code less messy and debugging easy. 
