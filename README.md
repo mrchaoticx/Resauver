@@ -24,7 +24,7 @@ Using our method makes code less messy and debugging easy.
 
 
 ## Install
-No Install required! Just use out source.
+No Install required! Just use our source.
 
 ```
 <script src="https://mrchaoticx.github.io/Resauver/src/Resauver.js"></script>
